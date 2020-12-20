@@ -7,14 +7,14 @@ const getQuote = async () => {
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
 
-    console.log("new quote", `"${quote}"`);
+    // console.log("new quote", `"${quote}"`);
 
     return {
       quote,
       author,
     };
   } catch (err) {
-    console.error(err.message);
+    // console.error(err.message);
     return {};
   }
 };
