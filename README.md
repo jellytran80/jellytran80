@@ -1,3 +1,3 @@
-_**Stress is like a pulse, if you have it you are alive.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Steve Maraboli
+Carl Lewis
