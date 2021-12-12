@@ -1,3 +1,3 @@
-_**Effort only fully releases its reward after a person refuses to quit.**_
+_**If you don't have confidence, you'll always find a way not to win**_
 
-Napoleon Hill
+Carl Lewis
