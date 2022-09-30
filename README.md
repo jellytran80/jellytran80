@@ -1,3 +1,3 @@
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Mohamad Ali
+Leo Durocher
