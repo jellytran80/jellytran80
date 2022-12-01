@@ -1,3 +1,3 @@
-_**Do the best you can until you know better. Then when you know better, do better.**_
+_**A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.**_
 
-Maya Angelou
+null
